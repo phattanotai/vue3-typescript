@@ -31,6 +31,7 @@ export const state: State = {
     id: 0,
     name: "",
     email: "",
+    useranme: "",
     role: "",
     imagePath: "",
   },
